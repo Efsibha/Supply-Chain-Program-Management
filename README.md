@@ -117,3 +117,43 @@ A JQL filter was used to identify high-priority unfinished work:
 ## Project Type
 
 Self-directed simulated project created for practical learning and portfolio demonstration.
+
+## Project Evidence
+
+### Jira Kanban Board
+
+The Kanban board was used to manage operational work across To Do, In Progress, Blocked, In Review, and Done states.
+
+![Jira Kanban Board](jira-kanban-board.png)
+
+### Jira Timeline
+
+The timeline provides schedule visibility across supply chain workstreams and highlights dependencies between activities.
+
+![Jira Timeline](jira-timeline.png)
+
+### Jira Program Dashboard
+
+The dashboard provides visibility into work-item status and high-priority open work.
+
+![Jira Status Dashboard](jira-status-dashboard.png)
+
+![Jira Priority and Status Dashboard](jira-Priority_status_dashboards.png)
+
+### Confluence Program Hub
+
+Confluence was used as the central documentation layer for program context, reviews, risks, issues, decisions, and meeting outcomes.
+
+![Confluence Program Hub](confluence-program-hub.png)
+
+### Risk and Issue Management
+
+![Risk and Issue Register](confluence-risk-issue-register.png)
+
+### Decision Management
+
+![Decision Log](confluence-decision-log.png)
+
+### Program Review and Action Tracking
+
+![Program Review Meeting Notes](confluence-meeting-notes.png)
