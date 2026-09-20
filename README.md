@@ -138,7 +138,7 @@ The dashboard provides visibility into work-item status and high-priority open w
 
 ![Jira Status Dashboard](jira-status-dashboard.png)
 
-![Jira Priority and Status Dashboard](jira-Priority_status_dashboards.png)
+![Jira Priority and Status Dashboard](jiraPriority_status_dashboards.png)
 
 ### Confluence Program Hub
 
