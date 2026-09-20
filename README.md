@@ -157,3 +157,10 @@ Confluence was used as the central documentation layer for program context, revi
 ### Program Review and Action Tracking
 
 ![Program Review Meeting Notes](confluence-meeting-notes.png)
+
+## Tools & Skills Demonstrated
+
+- Jira: Kanban workflow, work-item tracking, priorities, dependencies, blockers, JQL filters, dashboards, and timeline planning
+- Confluence: Program documentation, risk and issue register, decision log, weekly reviews, and meeting notes
+- Supply Chain: Supplier readiness, procurement, inbound logistics, warehouse readiness, quality, and distribution
+- Program Management: Cross-functional coordination, issue management, corrective actions, decision tracking, and status reporting
